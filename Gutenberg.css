@@ -1,0 +1,38 @@
+body {
+background-color: #FEF2AA;
+font-family: "Times New Roman";
+}
+
+p {
+font-weight: normal;
+font-size: 15px;
+text-align: left;
+}
+
+h1 { /*CommunistManifesto, FrederickDouglass, AliceWonderland*/
+font-weight: bold;
+font-size: 40px;
+text-align: center;
+}
+
+h2 { /*CommunistManifesto. FrederickDouglass, AliceWonderland*/
+font-weight: bold;
+font-size: 30px;
+text-align: left;
+}
+
+h3 { /*CommunistManifesto, FrederickDouglass*/
+font-weight: bold;
+font-size: 20px;
+text-align: left;
+}
+
+h4 { /*CommunistManifesto*/
+font-weight: bold;
+font-size: 10px;
+text-align: left;
+}
+
+img {
+text-align: center;
+}
