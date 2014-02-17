@@ -25,14 +25,19 @@ I had to alter some title headers from h2 to h1 because some documents
 used h2 for chapter titles and for a continuation of the title of the
 document.
 
+External Code Sources
+=====================
+
+http://stackoverflow.com/questions/4916384/how-do-i-align-a-sidebar-to-the-left-of-the-main-content-area
+
 License/Copyright
 =================
 
-Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
+Textual content is copyright Abram Hindle, Mircea Caciula (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
 repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
 
-http://stackoverflow.com/questions/4916384/how-do-i-align-a-sidebar-to-the-left-of-the-main-content-area
+
